@@ -1,4 +1,9 @@
-## Hi there 👋
+## Hi, I'm Jiawei He!
+
+- 🌱 I’m currently learning at SWUFE for my undergraduate degree in Data Science.
+- 📖 My recent interest is in Affective Computing and Large Language Models.
+
+Happy to share and communicate with you!
 
 ![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Hepisces&theme=react)
 
