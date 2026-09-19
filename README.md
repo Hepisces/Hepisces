@@ -1,9 +1,9 @@
 ## Hi, I'm Jiawei He!
 
-- 🌱 I’m currently learning at SWUFE for my undergraduate degree in Data Science.
+- 🌱 I’m currently studying at UCAS for my master's degree in Computer Science and Technology.
 - 📖 My recent interest is in Affective Computing and Large Language Models.
 
-Happy to share and communicate with you!
+Happy to connect and chat!
 <!--
 ![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Hepisces&theme=react)
 -->
