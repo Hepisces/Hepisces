@@ -1,6 +1,6 @@
 ## Hi, I'm Jiawei He!
 
-- 🌱 I’m currently studying at UCAS for my master's degree in Computer Science and Technology.
+- 🌱 I’m currently studying at ICT, CAS for my master's degree in Computer Science and Technology.
 - 📖 My recent interest is in Affective Computing and Large Language Models.
 
 Happy to connect and chat!
